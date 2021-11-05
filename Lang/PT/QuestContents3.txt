@@ -1,0 +1,142 @@
+FFFFAA << Contrato dos Espíritos >>  
+FFFFFF 
+FFFFFF Na guerra lendária, o General Kafma
+FFFFFF liderava o batalhão comandado por 4
+FFFFFF contratantes dos espíritos.
+FFFFFF 
+FFFFFF Esse foi o fator principal para
+FFFFFF acabar com a tropa inimiga.
+FFFFFF Elime, espírito da Água. Sylphed, espírito do 
+FFFFFF Vento. Thelio do Fogo e Noas, da Terra...
+FFFFFF O seu poder está chegando ao limite.
+FFFFFF 
+FFFFFF A partir de agora você poderá realizar 
+FFFFFF contratos com os 4 espíritos.
+FFFFFF 
+FFFFFF Os cristais dos espíritos são essenciais para
+FFFFFF realizar os contratos. Os cristais
+FFFFFF podem ser achados na Dungeon de Kefra.
+FFFFFF O contrato com os espíritos pode ser 
+FFFFFF realizado apenas no 355º nivel.
+FFFFAA << Primeiro: Espírito da Água >> 
+FFFFFF 
+FFFFFF Para fazer o contrato com Elime é necessário
+FFFFFF ser um Arch de level 355+ e precisa
+FFFFFF sacrificar 10.000.000 de experiência e o item
+FFFFFF Cristal de Elime.
+FFFFFF 
+FFFFFF Pelo contrato com Elime você ganha 80 de MP
+FFFFFF e a autorização para poder realizar contrato
+FFFFFF com espírito do Vento, Sylphed.
+FFFFFF
+FFFFFF O Cristal de Elime pode ser obtido matando o 
+FFFFFF FunerSickler que reside na Dungeon de Kefra.
+FFFFFF 
+AAFFFF O monstro costuma ser encontrado na
+AAFFFF seguinte Localização: X: 2205 Y: 4015 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFAA << Segundo: Espírito do Vento >>  
+FFFFFF 
+FFFFFF Para o contrato com Sylphed é necessário ser
+FFFFFF um Arch de level 355+ e precisa
+FFFFFF sacrificar 10.000.000 de experiência e o item
+FFFFFF Cristal de Sylphed.
+FFFFFF 
+FFFFFF Pelo contrato com Sylphed você ganha 30 de
+FFFFFF AC e a autorização para poder realizar contrato
+FFFFFF com espírito de fogo, Thelio.
+FFFFFF
+FFFFFF O Cristal de Sylphed pode ser obtido matando o
+FFFFFF FunerSeamer que reside na Dungeon de Kefra.
+FFFFFF  
+FFFFFF Se não possuir o contrato com espírito da água,
+FFFFFF não é possível realizar com o espírito do vento.
+FFFFFF 
+AAFFFF O monstro costuma ser encontrado na
+AAFFFF seguinte Localização: X: 2525 Y: 4000 
+FFFFFF 
+FFFFAA << Terceiro: Espírito do Fogo >>  
+FFFFFF 
+FFFFFF Para o contrato com Thelio é necessário ser
+FFFFFF um Arch de level 355+ e precisa 
+FFFFFF sacrificar 10.000.000 de experiência e o item
+FFFFFF Cristal de Thelion.
+FFFFFF 
+FFFFFF Pelo contrato com Thelion você ganha 80 de 
+FFFFFF HP e a autorização para poder realizar contrato
+FFFFFF com espírito de terra Noas.
+FFFFFF 
+FFFFFF O Cristal de Thelion pode ser obtido matando 
+FFFFFF o monstro Ape que reside na Dungeon de 
+FFFFFF Kefra.
+FFFFFF 
+FFFFFF Se não possuir o contrato com espírito do 
+FFFFFF vento, não é possível realizar com o espírito
+FFFFFF de fogo. 
+AAFFFF O monstro costuma ser encontrado na
+AAFFFF seguinte Localização: X: 2250 Y: 3885
+FFFFAA << Quarto: Espírito da Terra >> 
+FFFFFF 
+FFFFFF Para o contrato com Noas é necessário ser 
+FFFFFF um Arch de level 355+ e precisa
+FFFFFF sacrificar 10.000.000 de experiência e o item
+FFFFFF Cristal de Noas.
+FFFFFF 
+FFFFFF Pelo contrato você ganha 60 de HP, 20
+FFFFFF de AC e 60 de MP. 
+FFFFFF 
+FFFFFF O Cristal de Noas pode ser obtido matando o
+FFFFFF Batorero que reside na Dungeon de Kefra.
+FFFFFF 
+FFFFFF Se não possuir o contrato com o do fogo, não
+FFFFFF é possível realizar com o espírito da terra.
+FFFFFF 
+AAFFFF O monstro costuma ser encontrado na
+AAFFFF seguinte Localização: X: 2500 Y: 3910
+FFFFFF 
+FFFFFF 
+FFFFAA << Destrave do Nível 355 Arch >>  
+FFFFFF 
+FFFFFF Ao atingir o level 355 no personagem arch
+FFFFFF ele ficará travado, necessitando realizar
+FFFFFF o destrave de level, para isso será
+FFFFFF necessário os seguintes itens:
+FFFFFF 
+DAA520 1 Pergaminho Selado.
+FFFFFF 
+FFFFFF 
+FFFFFF Após adquirir os itens necessários para
+FFFFFF o destrave, basta localizar o npc Lindy
+FFFFFF na zona neutra dos reinos.
+FFFFFF 
+AAFFFF Coordenadas: X: 1700 Y: 1700
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFAA << Destrave do Nível 370 Arch >>  
+FFFFFF 
+FFFFFF Ao atingir o level 370 no personagem arch
+FFFFFF ele ficará travado, necessitando realizar
+FFFFFF o destrave de level, para isso será
+FFFFFF necessário os seguintes itens: 
+DAA520 1 Pergaminho Selado.
+DAA520 1 Poeira de oriharucon
+DAA520 1 de fama 
+FFFFFF 
+FFFFFF Com os itens no inventário se dirija
+FFFFFF ao NPC Lindy na área neutra dos reinos.
+FFFFFF 
+AAFFFF Coordenadas: X: 1700 Y: 1700
+FFFFFF 
+FFFFFF A fama pode ser adquirida através do uso
+FFFFFF do item "selo do guerreiro", disponível
+FFFFFF no NPC Creta no continente desconhecido.
+FFFFFF 
+AAFFFF Coordenadas : X: 3236 Y: 1690
+FFFFFF 
+FFFFFF

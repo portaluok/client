@@ -1,0 +1,5 @@
+001	FFFFFF	01	O segredo runico
+040	FFFFFF	50	Destrave do level 40
+090	FFFFFF	51	Destrave do level 90
+200	FFFFFF	52	Destrave do level 200
+200	FFFFFF	53	Os 3 Resets

@@ -1,0 +1,7 @@
+351	FFFFFF	00	[Os 4 cristais]		
+355	FFFFFF	10	[Primeiro: Elime (Agua)]		
+355	FFFFFF	11	[Segundo: Sylphed (Vento)]		
+355	FFFFFF	12	[Terceiro: Thelion (Fogo)]		
+355	FFFFFF	13	[Quarto: Noas (Terra)]		
+355	FFFFFF	14	Destrave lvl 355		
+355	FFFFFF	15	Destrave lvl 370		

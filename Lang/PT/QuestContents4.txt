@@ -1,0 +1,176 @@
+FFFFAA << O segredo runico >>
+FFFFFF
+FFFFFF Para evoluir seu personagem de Arch
+FFFFFF para Celestial você deve acessar as pistas
+FFFFFF de runas no continente desconhecido.
+FFFFFF Primeiramente é necessário derrotar o Kefra
+FFFFFF para ter acesso ao continente, após isso
+FFFFFF o jogador deve criar o item "pista de runas"
+FFFFFF no NPC Alquimista Odin no continente 
+FFFFFF desconhecido.
+AAFFFF Coordenadas: X: 3236 Y:1690
+FFFFFF 
+FFFFFF Itens requeridos:
+DAA520 7 Poeiras de Lactolerium.
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF  
+FFFFAA << Destrave do level 40 >>
+FFFFFF 
+FFFFFF Para realizar o desbloqueio do level 40 no
+FFFFFF personagem celestial você deve ir até o
+FFFFFF Alquimista Odin no continente desconhecido.
+AAFFFF Coordenadas : X: 3236 Y: 1690
+FFFFFF 
+FFFFFF Itens requeridos:
+DAA520 2 Pergaminhos Selados,
+DAA520 1 Selo Mágico F
+FFFFFF e as seguintes Runas: 
+D8BFD8 Fehu, Mannaz, Thurizas e Anzus.
+FFFFFF
+FFFFFF
+FFFFFF
+FFFFFF
+FFFFFF
+FFFFFF
+FFFFFF
+FFFFFF
+FFFFAA << Destrave do level 90 >>
+FFFFFF 
+FFFFFF Para realizar o desbloqueio do level 90 no
+FFFFFF personagem celestial você deve ir até o
+FFFFFF Alquimista Odin no continente desconhecido.
+AAFFFF Coordenadas : X: 3236 Y: 1690
+FFFFFF 
+FFFFFF Itens requeridos:
+DAA520 1 Pedra da fúria
+FFFFFF 
+FFFFFF Para criar a pedra da fúria é necessário 
+FFFFFF ir ao Alquimista Odin com os seguintes itens:
+FFFFFF 500 de fama e as seguintes runas:
+D8BFD8 Sowilo, Kenaz, Uraz, Thurisaz, Isa, Tiwaz e 
+D8BFD8 Hagalaz.
+FFFFFF
+FFFFFF Você pode obter fama com o Selo do
+FFFFFF Guerreiro vendido no NPC Creta
+FFFFFF no continente desconhecido.
+FFFFFF
+FFFFAA << Destrave do level 200 >>
+FFFFFF
+FFFFFF Ao Atingir o level 200 no personagem celestial
+FFFFFF o jogador poderá fazer o item "Cythera Arcana"
+FFFFFF Itens requeridos:
+FFFFFF 
+DAA520 1 Cythera Mística +11 ou superior*,
+DAA520 1 Pedra da fúria,
+DAA520 4 pedras secretas e
+DAA520 500 pontos de Fama.
+FFFFFF 
+FFFFFF Com todos os itens no inventário, basta 
+FFFFFF o jogador "consumir" o item "Pedra da fúria".
+FFFFFF 
+FFFFFF OBS: Em caso de sucesso todos os itens 
+FFFFFF irão desaparecer e a Cythera irá evoluir
+FFFFFF de Mística para Arcana.
+FFFFFF 
+FFFFFF OBS²:Em caso de falha, a Cythera cujo a 
+FFFFFF refinação seja superior a +11 será destruída! 
+FFFFAA << Os 3 Resets >>
+FFFFFF 
+FFFFFF Após realizar a composição da cythera arcana
+FFFFFF será possível realizar a quest dos resets,
+FFFFFF para isso, basta atender aos seguintes 
+FFFFFF requisitos:
+E0FFFF 4 Bilhões de pontos de experiência,
+DAA520 1 pedra da fúria e
+DAA520 1.000 pontos de fama.
+FFFFFF 
+FFFFFF Com os itens no invetário, basta
+FFFFFF o jogador "consumir" o item "Pedra da fúria".
+FFFFFF Não há chance de falha. Após realizado
+FFFFFF o reset o jogador receberá 200 pontos e
+FFFFFF serão descontados 50 Milhões de xp por reset.
+FFFFFF Os requisitos acima são para cada reset,
+FFFFFF necessitando reatender os requisitos para
+FFFFFF realizar um novo reset (limitado a 3 resets).
+FFFFFF A quest pode ser realizada tanto no celestial
+FFFFFF como no sub-celestial.
+FFFFFF
+FFFFAA << Destrave do level 240 >>
+FFFFFF 
+FFFFFF 
+FFFFFF Como destravar o personagem celestial level 240?
+FFFFFF Deve destrava-lo utilizando o item Proteção Divina.
+FFFFFF 
+FFFFFF O item pode ser criado no NPC Dedekinto.
+AAFFFF O NPC se encontra no continente desconhecido.
+AAFFFF coordenadas : X: 3229 Y: 1697
+FFFFFF 
+FFFFFF Itens: Coração de Beriel x2 + Alma do Beriel x2 
+FFFFFF Item da combinação do selo: Proteção Divina
+FFFFFF (Use com o botão direito, chance de ser removido.
+FFFFFF Combinação do selo (2): The Devil Whisper  
+FFFFFF (Use com o botão direito do mouse)
+FFFFFF 
+FFFFFF 
+FFFFAA << Destrave do level 280 >> 
+FFFFFF 
+FFFFFF Como destravar o personagem celestial level 280?
+FFFFFF Deve destrava-lo utilizando o item Proteção Divina.
+FFFFFF 
+FFFFFF O item pode ser criado no NPC Dedekinto.
+AAFFFF O NPC se encontra no continente desconhecido.
+AAFFFF coordenadas : X: 3229 Y: 1697
+FFFFFF 
+FFFFFF Itens: Coração de Beriel x2 + Alma do Beriel x2 
+FFFFFF Item da combinação do selo: Proteção Divina
+FFFFFF (Use com o botão direito, chance de ser removido.
+FFFFFF Combinação do selo (2): The Devil Whisper  
+FFFFFF (Use com o botão direito do mouse)
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFAA << Destrave do level 320 >> 
+FFFFFF 
+FFFFFF Como destravar o personagem celestial level 320?
+FFFFFF Deve destrava-lo utilizando o item Proteção Divina.
+FFFFFF 
+FFFFFF O item pode ser criado no NPC Dedekinto.
+AAFFFF O NPC está localizado no continente desconhecido.
+AAFFFF coordenadas : X: 3229 Y: 1697
+FFFFFF 
+FFFFFF Itens: Coração de Beriel x2 + Alma do Beriel x2 
+FFFFFF Item da combinação do selo: Proteção Divina
+FFFFFF (Use com o botão direito, chance de ser removido.
+FFFFFF Combinação do selo (2): The Devil Whisper  
+FFFFFF (Use com o botão direito do mouse)
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFAA << Destrave do level 360 >>
+FFFFFF 
+FFFFFF 
+FFFFFF
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
