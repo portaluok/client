@@ -1,2 +1,8 @@
-version: 1.0.0
-path: /
+version: 0.1.0
+files:
+  - url: uok-Setup-0.1.0.exe
+    sha512: eJxGezPE3GYIwqvWT578Ou13TAYmnwwGZZ3UhFfiIWoJXmG0Se9Ka2r7Elx4NnESeUG+Lsfb8ZFCM9H0qCssuA==
+    size: 138841473
+path: uok-Setup-0.1.0.exe
+sha512: eJxGezPE3GYIwqvWT578Ou13TAYmnwwGZZ3UhFfiIWoJXmG0Se9Ka2r7Elx4NnESeUG+Lsfb8ZFCM9H0qCssuA==
+releaseDate: '2021-11-07T05:29:30.454Z'
